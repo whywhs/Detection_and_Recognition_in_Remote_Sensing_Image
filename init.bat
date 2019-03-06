@@ -13,3 +13,5 @@ python setup_windows.py build_ext --inplace
 python setup_windows_cuda.py build_ext --inplace
 cd ..\..
 pause
+
+
